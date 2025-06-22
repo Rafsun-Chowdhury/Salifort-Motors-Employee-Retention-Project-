@@ -42,7 +42,7 @@ This project investigates employee attrition at Salifort Motors to identify key 
 
 ## 📁 Repository Structure
 
-- `Employee_Retention.ipynb` – Main notebook for EDA, feature engineering, and model training
+- `Employee_Retention_Analysis.ipynb` – Main notebook for EDA, feature engineering, and model training
 
 ---
 
