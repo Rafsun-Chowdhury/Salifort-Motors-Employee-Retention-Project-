@@ -26,9 +26,10 @@ This project analyzes employee attrition at Salifort Motors using logistic regre
 ---
 
 ## 📈 Key Findings
+  
 
-- Job satisfaction, salary level, and tenure are strong indicators of attrition risk  
-- Logistic regression achieved solid predictive performance  
+- Logistic regression showed strong accuracy in predicting employee retention, but had limited recall for identifying employees likely to leave.
+- This highlights the need for balanced modeling approaches to better support HR strategy and retention planning.
 - The model can inform HR strategy with minimal complexity
 
 ---
