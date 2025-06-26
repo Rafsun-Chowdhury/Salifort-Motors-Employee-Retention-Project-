@@ -6,8 +6,6 @@ This project analyzes employee attrition at Salifort Motors using logistic regre
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rafsun-Chowdhury/Salifort-Motors-Employee-Retention-Project-/blob/main/Salifort_Motors_Attrition_Model.ipynb)
 
 
-
-
 ---
 
 ## 📊 Tools & Technologies
