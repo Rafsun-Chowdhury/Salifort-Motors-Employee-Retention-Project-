@@ -33,19 +33,19 @@ This project analyzes employee attrition at Salifort Motors to identify patterns
 | Recall    | 1.00           | 0.92         |                  |
 | F1-score  | 0.99           | 0.96         |                  |
 
-> ✅ The model performs exceptionally well, especially in identifying employees at risk of leaving, which is the most critical use case for HR.
+>  The model performs exceptionally well, especially in identifying employees at risk of leaving, which is the most critical use case for HR.
 
 ---
 
 ## 📊 Visual Insights
 
-- 📌 **Attrition by Salary Level** — reveals high churn among low-salary groups
-- 📌 **Satisfaction vs. Attrition** — strong link between dissatisfaction and attrition
-- 📌 **Feature Importance** — shows top predictors of employee turnover
+-  **Attrition by Salary Level** — reveals high churn among low-salary groups
+-  **Satisfaction vs. Attrition** — strong link between dissatisfaction and attrition
+-  **Feature Importance** — shows top predictors of employee turnover
 
 ---
 
-## 🤖 HR-Friendly Prediction Tool
+##  HR-Friendly Prediction Tool
 
 Using just:
 - **Satisfaction Level**
