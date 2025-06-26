@@ -1,5 +1,5 @@
 
-# 👥 Who's Leaving Next? Data-Driven Attrition Prediction
+#  Who's Leaving Next? Data-Driven Attrition Prediction
 
 This project uses HR data to analyze employee turnover patterns and predict which employees are most likely to leave. By leveraging machine learning and simple input features like satisfaction, workload, and salary, it enables HR teams to take proactive action and improve retention strategies.
 
@@ -16,7 +16,7 @@ This project uses HR data to analyze employee turnover patterns and predict whic
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze key drivers behind employee attrition
 - Predict which employees are at high risk of leaving
@@ -25,7 +25,7 @@ This project uses HR data to analyze employee turnover patterns and predict whic
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 | Metric    | Class: Stayed | Class: Left | Overall Accuracy |
 |-----------|----------------|--------------|------------------|
@@ -33,19 +33,19 @@ This project uses HR data to analyze employee turnover patterns and predict whic
 | Recall    | 1.00           | 0.92         |                  |
 | F1-score  | 0.99           | 0.96         |                  |
 
-> ✅ The model performs exceptionally well, especially in identifying employees at risk of leaving, which is the most critical use case for HR.
+>  The model performs exceptionally well, especially in identifying employees at risk of leaving, which is the most critical use case for HR.
 
 ---
 
 ## 📊 Visual Insights
 
-- 📌 **Attrition by Salary Level** — reveals high churn among low-salary groups
-- 📌 **Satisfaction vs. Attrition** — strong link between dissatisfaction and attrition
-- 📌 **Feature Importance** — shows top predictors of employee turnover
+-  **Attrition by Salary Level** — reveals high churn among low-salary groups
+-  **Satisfaction vs. Attrition** — strong link between dissatisfaction and attrition
+-  **Feature Importance** — shows top predictors of employee turnover
 
 ---
 
-## 🤖 HR-Friendly Prediction Tool
+##  HR-Friendly Prediction Tool
 
 Using just:
 - **Satisfaction Level**
@@ -60,7 +60,7 @@ simplified_attrition_risk(model, satisfaction_level=0.4, monthly_hours=170, sala
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Option 1: Run in Google Colab  
 Click the badge at the top of this README.
